@@ -1,0 +1,90 @@
+Internet in a Box
+https://internet-in-a-box.org/
+
+Show HN: I made a web-based, free alternative to Screen Studio
+https://www.screenrecorder.me
+
+New material gives copper superalloy-like strength
+https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0
+
+AI Helps Find a Cause of Alzheimer's Disease and Identify Therapeutic Candidate
+https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate
+
+How a single line of code could brick your iPhone
+https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone
+
+Read the Obits
+https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/
+
+I just want to code (2023)
+https://www.zachbellay.com/daily/i-just-want-to-code/
+
+Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX
+https://github.com/mezantrop/i486SX_soft_FPU
+
+The suburban office park that launched Silicon Valley
+https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley
+
+Did 5G kill the IMSI catcher?
+https://zetier.com/5g-imsi-catcher/
+
+Visual Transistor-level Simulation of the 6502 CPU
+http://www.visual6502.org/
+
+How a Pipe Organ Works (2020)
+https://www.pipedreams.org/page/how-a-pipe-organ-works
+
+Reverse geocoding is hard
+https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/
+
+The coming knowledge-work supply-chain crisis
+https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply
+
+Virginia passes law to enforce maximum vehicle speeds for repeat speeders
+https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in
+
+Restoring a Sinclair C5
+https://woof.tech/@crashtestdev/114411537491626882
+
+Shardines: SQLite3 Database-per-Tenant with ActiveRecord
+https://blog.julik.nl/2025/04/a-can-of-shardines
+
+Tiny Emulators
+https://floooh.github.io/tiny8bit-preview/
+
+ZFS: Apple's new filesystem that wasn't (2016)
+https://ahl.dtrace.org/2016/06/15/apple_and_zfs/
+
+Cut: Chattanooga Civic User Testing
+https://cut.chattanooga.gov/
+
+Show HN: Daily Jailbreak – Prompt Engineer's Wordle
+https://www.vaultbreak.ai/daily-jailbreak
+
+Business co-founders in tech startups are less valuable than they think
+https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/
+
+Extend (YC W23) is hiring engineers to build LLM document processing
+https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37
+
+Show HN: Bhvr, a Bun and Hono and Vite and React Starter
+https://bhvr.dev
+
+Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS
+https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md
+
+Ask HN: CS Degrees, do they matter again?
+https://news.ycombinator.com/item?id=43816853
+
+Computer Architects Can't Find the Average
+https://dgsq.net/2025-04-27-averages/
+
+TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant
+https://tmuxai.dev/
+
+Missteps Equipment Problems and a Common but Risky Practice Led to a Fatal Crash
+https://www.nytimes.com/2025/04/27/business/dc-plane-crash-reagan-airport.html
+
+Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed
+https://github.com/zumerlab/snapdom
+
